@@ -1,0 +1,8 @@
+﻿  Student.cpp
+f:\coding (stay out)\c++\classes and c++\telephone directory\telephone directory\student.cpp(40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+f:\coding (stay out)\c++\classes and c++\telephone directory\telephone directory\student.cpp(55): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+f:\coding (stay out)\c++\classes and c++\telephone directory\telephone directory\student.cpp(70): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+f:\coding (stay out)\c++\classes and c++\telephone directory\telephone directory\main.cpp(6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  Telephone Directory.vcxproj -> F:\Coding (Stay Out)\C++\Classes And C++\Telephone Directory\x64\Debug\Telephone Directory.exe

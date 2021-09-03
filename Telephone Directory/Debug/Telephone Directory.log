@@ -1,0 +1,5 @@
+﻿  Student.cpp
+f:\coding (stay out)\c++\classes and c++\telephone directory\telephone directory\student.cpp(31): warning C4018: '<': signed/unsigned mismatch
+f:\coding (stay out)\c++\classes and c++\telephone directory\telephone directory\student.cpp(46): warning C4018: '<': signed/unsigned mismatch
+f:\coding (stay out)\c++\classes and c++\telephone directory\telephone directory\student.cpp(61): warning C4018: '<': signed/unsigned mismatch
+  Telephone Directory.vcxproj -> F:\Coding (Stay Out)\C++\Classes And C++\Telephone Directory\Debug\Telephone Directory.exe
